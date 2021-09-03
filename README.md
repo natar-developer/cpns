@@ -1,2 +1,3 @@
 # cpns
-please..., don't follow me
+Binary cache file.  
+Please..., don't follow me
